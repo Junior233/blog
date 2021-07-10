@@ -121,6 +121,10 @@
 
 :dart:dns污染导致某些网络环境下无法访问
 
+:star:以上方法都不管用:question:
+
+:dart:直接访问https://github.com/Junior233/blog_articles/issues
+
 ####  :fist:人生格言
 `just do it`  
 
