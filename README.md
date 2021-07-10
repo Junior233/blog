@@ -1,5 +1,5 @@
 #### 博客地址
-https://www.ysjinfeng.top  // 若无法访问,请阅读以下说明👇
+[https://www.ysjinfeng.top](https://www.ysjinfeng.top)  //:clap:若无法访问,请阅读以下说明👇
   
 ####  :pencil:消息通知
 
@@ -117,6 +117,8 @@ https://www.ysjinfeng.top  // 若无法访问,请阅读以下说明👇
 185.199.110.153 www.ysjinfeng.top
 # Blog End #
 ```
+:star:为什么导致无法访问:question:
+:dart:dns污染导致某些网络环境下无法访问
 
 ####  :fist:人生格言
 `just do it`  
