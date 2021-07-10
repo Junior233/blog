@@ -3,13 +3,13 @@
   
 ####  :pencil:消息通知
 
-:star:联通用户移动端无法访问:question:
+:star:联通用户或特定网络下移动端无法访问:question:
 
-:dart:改用uc浏览器或夸克浏览器访问
+:dart:改用uc浏览器或夸克浏览器访问试试 //或切换其他网络试试
 
 :star:博客访问缓慢:question:
  
-:dart:修改host 增加如下内容:point_down:
+:dart:pc端增加以下内容到host:point_down:  //win10用户可安装utools以及utools下的host插件快速修改host
 ```ini
 # GitHub Start
 52.74.223.119 github.com
